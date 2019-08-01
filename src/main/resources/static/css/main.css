@@ -1,0 +1,11 @@
+body {
+    color: #5f5250;
+}
+
+#pic-of-day {
+    max-height: 25rem;
+}
+
+.thumb {
+    max-width: 6rem;
+}
